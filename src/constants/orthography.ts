@@ -31,7 +31,6 @@ export const ORTHOGRAPHY = [
   "q",
   "qʷ",
   "s",
-
   "š",
   "t",
   "t̓",
