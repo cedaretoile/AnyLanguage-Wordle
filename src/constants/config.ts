@@ -1,9 +1,9 @@
 export const CONFIG = {
   tries: 6, // This changes how many tries you get to finish the wordle
-  language: "nuučaan̓uł", // This changes the display name for your language
+  language: "nuučaan̓uł - all dialects", // This changes the display name for your language
   wordLength: 5, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'Cedar Étoile', // Put your name here so people know who made this Wordle!
-  authorWebsite: 'https://cedartaatawasi.com', // Put a link to your website or social media here
+  authorWebsite: 'https://tlaahaqsak.com', // Put a link to your website or social media here
   wordListSource: "t̓aat̓aaqsapa", // Describe the source material for your words here
   wordListSourceLink: "", // Put a link to the source material for your words here
   //
