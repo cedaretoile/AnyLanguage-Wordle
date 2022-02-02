@@ -5,7 +5,7 @@ export const CONFIG = {
   author: 'Cedar Étoile', // Put your name here so people know who made this Wordle!
   authorWebsite: 'https://tlaahaqsak.com', // Put a link to your website or social media here
   wordListSource: "t̓aat̓aaqsapa", // Describe the source material for your words here
-  //wordListSourceLink: "", // Put a link to the source material for your words here
+  wordListSourceLink: "", // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
