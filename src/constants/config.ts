@@ -5,7 +5,7 @@ export const CONFIG = {
   author: 'Cedar Étoile', // with help from Ben Altair
   authorWebsite: 'https://cedartaatawasi.com/', // Put a link to your website or social media here
   wordListSource: "t̓aat̓aaqsapa", // Describe the source material for your words here
-  wordListSourceLink: "hesquiahtlanguage.org/uploads/6/8/7/0/6870919/taataaqsapa_1991_ocr.pdf", // Put a link to the source material for your words here
+  wordListSourceLink: "http://hesquiahtlanguage.org/uploads/6/8/7/0/6870919/taataaqsapa_1991_ocr.pdf", // Put a link to the source material for your words here
   //
   // THESE NEXT SETTINGS ARE FOR ADVANCED USERS
   //
