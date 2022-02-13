@@ -47,6 +47,8 @@ export const ORTHOGRAPHY = [
   'xʷ',
   'x̣',
   'x̣ʷ',
+  "y",
+  "y̓",
   'ʔ',
   'ʕ',
 ]
